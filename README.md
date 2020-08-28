@@ -1,2 +1,2 @@
-# Projeto-Oficina-POO
-Trabalho da faculdade desenvolvido em JAVA.
+# Projeto de uma Oficina Mecânica programada orientada a objetos
+Projeto de faculdade desenvolvido em JAVA.
