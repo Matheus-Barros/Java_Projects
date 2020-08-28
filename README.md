@@ -1,2 +1,2 @@
-# Projeto de uma Oficina Mecânica programada orientada a objetos
+# Projetos em JAVA programado orientado a objetos
 Projeto de faculdade desenvolvido em JAVA.
